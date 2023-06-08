@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"homework","l":"BubbleSort"},{"p":"homework","l":"InsertionSort"},{"p":"homework","l":"info"},{"p":"homework","l":"Main"},{"p":"homework","l":"MergeSort"},{"p":"homework","l":"MyMap"},{"p":"homework","l":"QuickSort"},{"p":"homework","l":"SelectionSort"}];updateSearchResults();
